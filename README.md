@@ -1,4 +1,4 @@
-# multiFeature_fakenews
+# Multiple_Feature_Fake_News_Detection
 Multiple Features based Fake News Detection using Article Performance.
 
 ## What is it and Why?
